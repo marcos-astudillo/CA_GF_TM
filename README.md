@@ -134,6 +134,6 @@ This project is for academic and educational purposes only. No specific open-sou
 
 [![🌍 Portfolio](https://img.shields.io/badge/Website-marcosastudillo.com-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.marcosastudillo.com)
 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Astudillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-antonio-astudillo-carrasco)
-[![🐱 GitHub](https://img.shields.io/badge/GitHub-ThisIsAntonio-181717?style=for-the-badge&logo=github)](https://github.com/ThisIsAntonio)
+[![🐱 GitHub](https://img.shields.io/badge/GitHub-Marcos-Astudillo-181717?style=for-the-badge&logo=github)](https://github.com/marcos-astudillo)
 
 **Email:** m.astudillo1986@gmail.com
